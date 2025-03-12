@@ -10,3 +10,9 @@ func main() {
 	song := testlib.GetMusic("Alicia Keys")
 	fmt.Println(song)
 }
+
+// package main
+
+// func main() {
+// 	println("Test")
+// }
